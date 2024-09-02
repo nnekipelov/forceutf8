@@ -29,11 +29,11 @@ POSSIBILITY OF SUCH DAMAGE.
  */
 
 /**
- * @author   "Sebastián Grignoli" <grignoli@gmail.com>
+ * @author   "NVN" <n.nekipelov@gmail.com>
  * @package  Encoding
  * @version  2.0
- * @link     https://github.com/neitanod/forceutf8
- * @example  https://github.com/neitanod/forceutf8
+ * @link     https://github.com/nnekipelov/forceutf8
+ * @example  https://github.com/nnekipelov/forceutf8
  * @license  Revised BSD
  */
 
