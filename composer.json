@@ -1,16 +1,16 @@
 {
-    "name": "sailenicolas/forceutf8",
-    "homepage": "https://github.com/sailenicolas/forceutf8",
+    "name": "nnekipelov/forceutf8",
+    "homepage": "https://github.com/nnekipelov/forceutf8",
     "license": "BSD-3-Clause",
     "type": "library",
     "description": "PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.",
     "require": {
-        "php": ">=7.4.0"
+        "php": ">=8.3.0"
     },
     "authors": [
         {
-            "name": "Sebastián Grignoli",
-            "email": "grignoli@gmail.com"
+            "name": "nnekipelov",
+            "email": "n.nekipelov@gmail.com"
         }
     ],
     "autoload": {
