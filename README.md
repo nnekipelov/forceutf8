@@ -1,4 +1,4 @@
-forceutf8
+ipelovforceutf8
 =========
 
 PHP Class Encoding featuring popular \ForceUTF8\Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.
@@ -21,7 +21,7 @@ I've included another function, \ForceUTF8\Encoding::fixUTF8(), which will fix t
 Install via composer:
 =====================
 
-```composer require sailenicolas/forceutf8```
+```composer require nnekipelov/forceutf8```
 
 Usage:
 ======
